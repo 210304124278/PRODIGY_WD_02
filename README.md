@@ -1,2 +1,3 @@
 # PRODIGY_WD_02
  STOPWATCH PROJECT
+![task2](https://github.com/210304124278/PRODIGY_WD_02/assets/141000511/f9ccd9ee-bd7a-448d-ae52-08d857bd507e)
